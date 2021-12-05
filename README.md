@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NATURE-872
 - 👀 I’m interested in ... Programming games, apps, websites, devices, etc.
-- 🌱 I’m currently learning ... Struggling to learn most languages. 
+- 🌱 I’m currently learning ... C#, C++, & Html. 
 - 💞️ I’m looking to collaborate on ... nothing just yet. 
 - 📫 How to reach me ... no discord but, twitter yes: https://twitter.com/Tokyo0737 
 
